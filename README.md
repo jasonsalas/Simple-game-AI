@@ -4,7 +4,7 @@
 ### Overview
 This HTML5 game demonstrates a few techniques for web-based gaming:
 - JavaScript animation loop (this should optimally use _requestAnimationFrame()_ but for simplicity it's a bare-bones implementation
-- Keyboard input for directional program control
+- Keyboard, mouse and touchscreen input for directional program control
 - grid-based pursuit of a cop running-down a robber (you're the robber)...if the cop's image covers the robber, you've lost. 
 
 ### Playable demo
