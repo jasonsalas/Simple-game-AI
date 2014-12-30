@@ -1,0 +1,11 @@
+BODY { font-family:Tahoma,Helvetica,sans serif; }
+H3 { text-transform:uppercase;font-weight:bold; }
+CANVAS { border:1px solid #000000;background-image:url('street.jpg'); }
+DIV.winner { 
+	font-size:37px;font-weight:bold;color:#000033;text-align:center;display:block;text-transform:uppercase;
+
+	// CSS3 transformations
+	text-shadow:5px 5px 5px #993333;
+}
+
+P.todo { font-size:11px;font-weight:normal;text-align:right; }

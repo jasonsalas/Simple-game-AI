@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8"/>
+		<link rel="stylesheet" href="gaming-ai.css"/>
+		<title>Don't get caught!</title>
+	</head>
+	<body>
+		<h2>HTML5 game AI demo (v.0.1) - <i>chasing</i></h2>
+		<h3>don't get caught by the cop!</h3> 
+		<h4>supported input devices:</h4>
+		<ul>
+			<li>keyboard (directional arrows)</li>
+			<li>mouse</li>
+			<li>touchscreens</li>
+			<li><strike>webcam-based gesturing</strike></li>
+		</ul>
+		
+		<canvas id="gamingSurface" width="500" height="300">if you can see this, your browser is lame.</canvas>
+		<audio id="FX-busted" src="busted.mp3" style="display:none;"></audio>
+		
+		<p class="todo">upcoming features: scoring system, hi-scores list, Hangout integration, iOS support, continuous environment pursuit (Bresenham's algorithm)</p>
+		
+		<script src="gaming-ai.js"></script>
+	</body>
+</html>
