@@ -1,5 +1,5 @@
 # Simple game AI
-## A stupidly-simple "chasing" algoritm
+## A stupidly-simple "chasing" algorithm
 
 ### Overview
 This HTML5 game demonstrates a few techniques for web-based gaming:
